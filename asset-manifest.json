@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/j1graffiti/static/css/main.be6bed6a.chunk.css",
+    "main.js": "/j1graffiti/static/js/main.e089fdde.chunk.js",
+    "main.js.map": "/j1graffiti/static/js/main.e089fdde.chunk.js.map",
+    "runtime-main.js": "/j1graffiti/static/js/runtime-main.65e50a46.js",
+    "runtime-main.js.map": "/j1graffiti/static/js/runtime-main.65e50a46.js.map",
+    "static/js/2.115c3cb3.chunk.js": "/j1graffiti/static/js/2.115c3cb3.chunk.js",
+    "static/js/2.115c3cb3.chunk.js.map": "/j1graffiti/static/js/2.115c3cb3.chunk.js.map",
+    "static/js/3.f258a922.chunk.js": "/j1graffiti/static/js/3.f258a922.chunk.js",
+    "static/js/3.f258a922.chunk.js.map": "/j1graffiti/static/js/3.f258a922.chunk.js.map",
+    "index.html": "/j1graffiti/index.html",
+    "static/css/main.be6bed6a.chunk.css.map": "/j1graffiti/static/css/main.be6bed6a.chunk.css.map",
+    "static/js/2.115c3cb3.chunk.js.LICENSE.txt": "/j1graffiti/static/js/2.115c3cb3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/j1graffiti/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65e50a46.js",
+    "static/js/2.115c3cb3.chunk.js",
+    "static/css/main.be6bed6a.chunk.css",
+    "static/js/main.e089fdde.chunk.js"
+  ]
+}
